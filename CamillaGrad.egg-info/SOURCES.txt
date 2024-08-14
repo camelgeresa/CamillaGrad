@@ -1,0 +1,8 @@
+README.md
+setup.py
+CamillaGrad.egg-info/PKG-INFO
+CamillaGrad.egg-info/SOURCES.txt
+CamillaGrad.egg-info/dependency_links.txt
+CamillaGrad.egg-info/requires.txt
+CamillaGrad.egg-info/top_level.txt
+tests/test_ops.py

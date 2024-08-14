@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: CamillaGrad
+Version: 0.0.10
+Summary: a bare bones autograd engine in pytorch style
+Home-page: https://github.com/camelgeresa/CamillaGrad/
+Author: Camilla
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: colorama==0.4.6
+Requires-Dist: filelock==3.13.1
+Requires-Dist: iniconfig==1.1.1
+Requires-Dist: Jinja2==3.1.4
+Requires-Dist: MarkupSafe==2.1.3
+Requires-Dist: mkl-fft==1.3.8
+Requires-Dist: mkl-random==1.2.4
+Requires-Dist: mkl-service==2.4.0
+Requires-Dist: mpmath==1.3.0
+Requires-Dist: networkx==3.3
+Requires-Dist: numpy==1.26.4
+Requires-Dist: packaging==24.1
+Requires-Dist: pluggy==1.0.0
+Requires-Dist: pytest==7.4.4
+Requires-Dist: PyYAML==6.0.1
+Requires-Dist: setuptools==69.5.1
+Requires-Dist: sympy==1.12
+Requires-Dist: torch==2.4.0
+Requires-Dist: typing_extensions==4.11.0
+Requires-Dist: wheel==0.43.0
+
+# CamillaGrad
